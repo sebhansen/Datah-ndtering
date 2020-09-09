@@ -1,0 +1,7 @@
+D:\Kode\Skole\Skole\bin\Debug\Skole.exe.config
+D:\Kode\Skole\Skole\bin\Debug\Skole.exe
+D:\Kode\Skole\Skole\bin\Debug\Skole.pdb
+D:\Kode\Skole\Skole\obj\Debug\Skole.csprojAssemblyReference.cache
+D:\Kode\Skole\Skole\obj\Debug\Skole.csproj.CoreCompileInputs.cache
+D:\Kode\Skole\Skole\obj\Debug\Skole.exe
+D:\Kode\Skole\Skole\obj\Debug\Skole.pdb
